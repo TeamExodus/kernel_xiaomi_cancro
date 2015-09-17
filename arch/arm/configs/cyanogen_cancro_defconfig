@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm 3.4.0 Kernel Configuration
+# Linux/arm 3.4.79 Kernel Configuration
 #
 CONFIG_ARM=y
 CONFIG_ARM_HAS_SG_CHAIN=y
@@ -3674,3 +3674,4 @@ CONFIG_QMI_ENCDEC=y
 # Others
 CONFIG_HAS_MACH_MEMUTILS=y
 CONFIG_SOUND_CONTROL_HAX_3_GPL=y
+CONFIG_WQ_POWER_EFFICIENT_DEFAULT=y
