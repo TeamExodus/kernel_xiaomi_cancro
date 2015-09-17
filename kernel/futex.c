@@ -62,6 +62,7 @@
 #include <linux/ptrace.h>
 
 #include <asm/futex.h>
+#include <linux/hugetlb.h>
 
 #include "rtmutex_common.h"
 
